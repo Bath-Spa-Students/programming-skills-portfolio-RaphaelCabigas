@@ -1,3 +1,4 @@
 import datetime
 today = datetime.datetime.today()
-print(today.strftime("%d-%m-%Y %H:%M:%S"))
+print(today.strftime("Date: %d-%m-%Y"))
+print(today.strftime("Time: %H:%M:%S"))
