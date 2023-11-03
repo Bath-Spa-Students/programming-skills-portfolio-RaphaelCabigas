@@ -1,4 +1,4 @@
-# Dictionaries for different pets
+# Dictionaries for different pets and their owners
 pet1 = {'Dog': 'Rainier'}
 pet2 = {'Bird': 'Jonathan'}
 pet3 = {'Hamster': 'Luna'}
